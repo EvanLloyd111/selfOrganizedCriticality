@@ -1,2 +1,2 @@
 # selfOrganizedCriticality
-This program demonstrate the effect changing the r value has on the chaotic nature of a Lorenz attractor. 
+This program demonstrates the effect of changing the r-value on a Lorenz attractor's chaotic nature. 
